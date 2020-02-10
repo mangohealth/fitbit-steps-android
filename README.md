@@ -23,8 +23,9 @@ interested in seeing how you solve problems and your work style given the time c
 * When done, push your solution as a new branch
 
 ## Resources
-* Fitbit API doc: https://dev.fitbit.com/reference/web-api/basics/
-* Fitbit API OAuth doc: https://dev.fitbit.com/build/reference/web-api/oauth2/
+* ~~Fitbit API doc: https://dev.fitbit.com/reference/web-api/basics/~~
+* ~~Fitbit API OAuth doc: https://dev.fitbit.com/build/reference/web-api/oauth2/~~
+* Daily Steps API: https://mh-interview-hw.s3-us-west-1.amazonaws.com/activities_log/dev_test.json
 * Client ID: 22BCNN
 * Client Secret: 9404b49ceedf5c3113da7a52e8776a18
 * Auth URI: https://www.fitbit.com/oauth2/authorize
